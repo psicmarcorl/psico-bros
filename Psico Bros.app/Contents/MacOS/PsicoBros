@@ -1,0 +1,4 @@
+#!/bin/bash
+# Abre el juego en el navegador predeterminado (Safari, Chrome, etc.)
+DIR="$(cd "$(dirname "$0")/../Resources" && pwd)"
+open "$DIR/index.html"
