@@ -1,5 +1,7 @@
 # Psico Bros.
 
+**▶︎ Juega en línea: https://psicmarcorl.github.io/psico-bros/**
+
 Juego de plataformas en pixel art al estilo de Super Mario Bros. Un psicólogo enfrenta a enemigos que
 representan trastornos del DSM-5: fantasmas de ansiedad, dragoncitos de distimia, murciélagos de
 insomnio, plantas de TOC y barras de pánico. Al final del nivel espera un jefe: el Gran Dragón de la
@@ -13,7 +15,8 @@ Por ahora solo incluye el **nivel 1-1** (de prueba), con jefe final.
 
 ## Cómo jugar
 
-- **En el navegador:** abre `index.html` (Safari, Chrome, Firefox…). No necesita internet ni instalar nada.
+- **En línea:** entra a https://psicmarcorl.github.io/psico-bros/ desde cualquier navegador.
+- **En tu computadora:** abre `index.html` (Safari, Chrome, Firefox…). No necesita internet ni instalar nada.
 - **Lanzador para macOS:** `Psico Bros.app` abre `index.html` en tu navegador predeterminado.
   Si macOS lo bloquea, haz clic derecho → **Abrir**.
 - **App nativa para macOS:** abre `Xcode/PsicoBros.xcodeproj` en Xcode y pulsa ▶︎.
